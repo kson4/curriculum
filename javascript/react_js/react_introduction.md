@@ -201,7 +201,7 @@ If you want to see all the things we have discussed in action, go ahead and run 
 
 ### Index.js and App.js
 
-Two of the most important files create-react-app includes for you are index.js and App.js. `index.js` is the "entry point" of your application by default. Open up your index.js file and check out this:
+Two of the most important files create-react-app includes for you are index.js and App.js. `index.js` is the "entry point" of your application by default. Open up your /src/index.js file and check out this:
 
 ~~~javascript
 const root = ReactDOM.createRoot(document.getElementById('root'));
